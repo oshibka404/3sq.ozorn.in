@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+title: music thinking coding reading
+description: Electronic music somewhere between experimental and pop
+author: Andrey Ozornin
