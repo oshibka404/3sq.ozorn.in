@@ -16,6 +16,6 @@ slow, gently melodic, jazzy, rather simple, thank god having no wornout lo-fi vi
 
 must-have in your romantic playlist.
 
-<iframe src="https://open.spotify.com/embed/album/1camjNx8LR0jLIzVpgSTCE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/0KR0Qznm3EEb0yIk7ZmsEP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 however, less lingle bells would be awesome
