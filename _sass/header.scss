@@ -1,0 +1,25 @@
+header {
+  height:40px;
+}
+
+.logo__square {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+.logo__square--red {
+  background-color: red;
+}
+
+.logo__square--yellow {
+  background-color: yellow;
+}
+
+.logo__square--blue {
+  background-color: blue;
+}
+
+.current {
+  color: red;
+}
