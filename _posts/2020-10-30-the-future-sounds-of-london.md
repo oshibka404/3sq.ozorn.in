@@ -20,8 +20,6 @@ the new album combines brand new compositions with recreated versions of tracks 
 
 worth listening but don't expect it to be a revelation like their first releases used to be.
 
-<iframe src="https://open.spotify.com/embed/album/20mveMi8w6Q3whcolVA95H" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 
 
 [Papua New Guinea]: https://open.spotify.com/album/4D5PVEXHKVHOS4TvYArzJV?si=TbKp3VY_R8qEXLUfY_MR4A
