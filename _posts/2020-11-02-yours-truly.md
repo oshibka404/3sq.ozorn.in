@@ -5,7 +5,7 @@ title: truly jazzy melodic downtempo
 
 release_artist: Yours-Truly
 release_title: Standby
-release_url: https://open.spotify.com/album/0KR0Qznm3EEb0yIk7ZmsEP
+release_spotify: 0KR0Qznm3EEb0yIk7ZmsEP
 release_stars: 2
 
 ---
