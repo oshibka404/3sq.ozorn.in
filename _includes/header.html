@@ -4,11 +4,5 @@
     <div class="logo__square logo__square--yellow"></div>
     <div class="logo__square logo__square--blue"></div>
   </a>
-  <nav>
-    {% for item in site.data.navigation %}
-      <a href="{{ item.link }}" {% if page.url == item.link %} class="current" {% endif %}>
-        {{ item.name }}
-      </a>
-    {% endfor %}
-  </nav>
+  {% include navigation.html %}
 </header>
