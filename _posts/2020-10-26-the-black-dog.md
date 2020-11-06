@@ -5,7 +5,7 @@ title: techno for homebodies
 
 release_artist: The Black Dog
 release_title: Final Collected Vexations
-release_url: https://open.spotify.com/album/0gNN8hM4IyGe9ZE6sl2AnX?si=4P184qBbQgG-eWUmW7CQ9g
+release_spotify: 0gNN8hM4IyGe9ZE6sl2AnX
 release_stars: 1
 
 ---
