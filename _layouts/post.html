@@ -2,6 +2,15 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
+
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
-{{ content }}
+<div class="player">
+  {% if page.release_spotify %}
+    <iframe src="https://open.spotify.com/embed/album/{{ page.release_spotify }}" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  {% endif %}
+</div>
+
+<article>
+  {{ content }}
+</article>
