@@ -5,7 +5,7 @@ title: the future sound of past
 
 release_artist: The Future Sound Of London
 release_title: Cascade 2020
-release_url: https://open.spotify.com/album/20mveMi8w6Q3whcolVA95H?si=kXLyH1nwSUqd3LgNni9K6A
+release_spotify: 20mveMi8w6Q3whcolVA95H
 release_stars: 0
 
 ---
