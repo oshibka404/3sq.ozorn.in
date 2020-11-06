@@ -2,6 +2,7 @@ header {
   height: 40px;
   display: flex;
   align-items: center;
+  justi
 }
 
 .logo {
@@ -26,6 +27,11 @@ header {
   background-color: #3885ED;
 }
 
-.current {
-  color: red;
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav > a {
+  padding: 0 4px;
 }
