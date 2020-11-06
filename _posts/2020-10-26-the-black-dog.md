@@ -16,6 +16,4 @@ it's a good listening for those people who (just like me) want to get into techn
 
 the album definitely hasn't been created for raving in a dark club having swallowed tabs. it's for listening in headphones at home, being alone. preferrably, doing something else along with listening.
 
-<iframe src="https://open.spotify.com/embed/album/0gNN8hM4IyGe9ZE6sl2AnX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 they're doing it for over 30 years already, can you imagine?
