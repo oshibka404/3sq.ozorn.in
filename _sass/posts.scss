@@ -13,10 +13,13 @@
 .post-preview__text {
   display: flex;
   flex-direction: column;
+  padding: 0 16px;
 }
 
 .post-preview__title {
-  display: flex;
-  flex-direction: row;
-  align-items: baseline;
+  margin: 0px;
+}
+
+.post-preview__excerpt > p {
+  margin: 8px 0;
 }
