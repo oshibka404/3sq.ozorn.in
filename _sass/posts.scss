@@ -5,8 +5,9 @@
 
 .post-preview {
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
   margin: 4px 8px 16px;
+  justify-content: left;
 }
 
 .post-preview__text {
