@@ -5,20 +5,22 @@ title: blog
 <section class="posts">
   {% for post in site.posts %}
     <div class="post-preview">
-      <div class="post-preview__title">
-        <h2>
-          <a href="{{ post.url }}">
-             {{ post.title }}
-          </a>
-        </h2>
-        <div class="post-preview__player">
-          {% if post.release_spotify %}
-            <iframe src="https://open.spotify.com/embed/album/{{ post.release_spotify }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-          {% endif %}
+      <div class="post-preview__text">
+        <div class="post-preview__title">
+          <h2>
+            <a href="{{ post.url }}">
+               {{ post.title }}
+            </a>
+          </h2>
+        </div>
+        <div class="post-preview__excerpt">
+          {{ post.excerpt }}
         </div>
       </div>
-      <div class="post-preview__excerpt">
-        {{ post.excerpt }}
+      <div class="post-preview__player">
+        {% if post.release_spotify %}
+          <iframe src="https://open.spotify.com/embed/album/{{ post.release_spotify }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        {% endif %}
       </div>
     </div>
   {% endfor %}
