@@ -23,3 +23,9 @@
 .post-preview__excerpt > p {
   margin: 8px 0;
 }
+
+@media only screen and (max-width: 600px) {
+  .post-preview {
+    flex-direction: column;
+  }
+}
