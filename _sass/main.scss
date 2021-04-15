@@ -24,3 +24,8 @@ a:active {
   display: flex;
   flex-direction: row-reverse;
 }
+
+.sidebar {
+  min-width: 250px;
+  position: relative;
+}
