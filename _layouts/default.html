@@ -17,16 +17,16 @@
     {% include header.html %}
     
     <div class="page-body">
-      
+
+      <section class="content">
+        {{ content }}
+      </section>
+
       <aside class="sidebar">
         <div class="player-widget">
           {% include player.html %}
         </div>
       </aside>
-      
-      <section class="content">
-        {{ content }}
-      </section>
 
     </div>
 
