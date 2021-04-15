@@ -9,7 +9,14 @@ to melancholic pacification of "The Walk in Falling Leaves", which is my persona
 
 <iframe style="border: 0; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1256769445/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://threecoloredsquares.bandcamp.com/album/ep1">EP1 by Three Colored Squares</a></iframe>
 
-Yes, it is free for download from Bandcamp because I consider it the right thing to do, and, let's be honest, because I have a job.
+Many thanks to [Daria Chetvernya](https://instagram.com/chetvernya) for the help with artwork.
+Kudos to Hayden from [DAM Recordings](https://www.damrecordings.com/) in Amsterdam for mastering.
+
+Fun fact: Every single sound on this EP from kick to pads is made on the FM Groovebox Elektron Model:Cycles. It was a challenge but I didn't feel significantly limited while doing it. It was fun.
+
+Less fun fact: 4 out of 5 tracks on the EP were initially created as jams on my [Youtube channel](https://youtube.com/c/ThreeColoredSquares).
+
+Yes, the album is free for download on Bandcamp because I consider it the right thing to do, and, let's be honest, because I have a job.
 
 Here are links to EP1 on mainstreaming services:
 
