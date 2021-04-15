@@ -8,16 +8,17 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-    {% include header.html %}
-    
     <div class="player-wrapper">
       {% include player.html %}
     </div>
+    <div class="page-wrapper">
+      {% include header.html %}
+
+      <section>
+        {{ content }}
+      </section>
     
-    <section>
-      {{ content }}
-    </section>
-    
-    {% include footer.html %}
+      {% include footer.html %}
+    </div>
   </body>
 </html>
