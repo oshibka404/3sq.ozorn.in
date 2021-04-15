@@ -21,6 +21,9 @@ Yes, the album is free for download on Bandcamp because I consider it the right 
 Here are links to EP1 on mainstreaming services:
 
 [EP1 on Apple Music](https://music.apple.com/us/album/1561449508)
+
 [EP1 on Deezer](https://www.deezer.com/us/album/219252152)
+
 [EP1 on Spotify](https://open.spotify.com/album/5nhOwFgVR560sVJYvdZuMA)
+
 [EP1 on Yandex.Music](https://music.yandex.ru/album/14633265)
