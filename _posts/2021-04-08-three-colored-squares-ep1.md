@@ -2,6 +2,7 @@
 layout: post
 author: andrey ozornin
 title: My first EP is out!
+post_link: /ep1
 
 release_artist: Three Colored Squares
 release_title: EP1
