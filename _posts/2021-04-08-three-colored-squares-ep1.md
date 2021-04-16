@@ -2,7 +2,6 @@
 layout: post
 author: andrey ozornin
 title: My first EP is out!
-post_link: /ep1
 
 release_artist: Three Colored Squares
 release_title: EP1
@@ -12,4 +11,6 @@ release_stars: 3
 
 ---
 
-Five tracks carrying five different feelings: anxiety, happiness, enthusiasm, courage, pacification.
+I've released my debut EP. Unsurprisingly, I've called it [EP1](/ep1). It is a 17-minute journey through five different feelings: from anxiety through happiness to pacification.
+
+MIDI version is coming soon.
