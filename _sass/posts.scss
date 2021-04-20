@@ -8,6 +8,7 @@
   flex-direction: row;
   margin: 4px 8px 16px;
   justify-content: left;
+  position: relative;
 }
 
 .post-preview__text {
@@ -22,6 +23,16 @@
 
 .post-preview__excerpt > p {
   margin: 8px 0;
+}
+
+.post-preview__thumbnail {
+  width: 300px;
+  height: 100%;
+}
+
+.post-preview__thumbnail-image {
+  background-size: cover;
+  
 }
 
 @media only screen and (max-width: 900px) {
