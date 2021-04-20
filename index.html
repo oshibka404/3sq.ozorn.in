@@ -4,8 +4,10 @@ layout: default
 <section class="posts">
   {% for post in site.posts %}
     <div class="post-preview">
-      <div class="post-preview__player">
-        {% if post.release_spotify %}
+      <div class="post-preview__thumbnail">
+        {% if post.image %}
+          <div class="post-preview__thumbnail-image" style="background-image: url(/assets/{{ post.image }})"></div>
+        {% elsif post.release_spotify %}
           <iframe src="https://open.spotify.com/embed/album/{{ post.release_spotify }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
         {% endif %}
       </div>
