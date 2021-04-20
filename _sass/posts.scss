@@ -27,12 +27,13 @@
 
 .post-preview__thumbnail {
   width: 300px;
-  height: 100%;
+  min-width: 300px;
 }
 
 .post-preview__thumbnail-image {
+  height: 100%;
   background-size: cover;
-  
+  background-position: center center;
 }
 
 @media only screen and (max-width: 900px) {
