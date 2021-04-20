@@ -2,6 +2,7 @@
 layout: post
 author: andrey ozornin
 title: Review in Plastic Mag
+image: plastic-mag.png
 
 ---
 
