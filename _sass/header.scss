@@ -1,7 +1,10 @@
 header {
   min-height: 40px;
-  display: flex;
   margin: 4px 8px 12px;
+}
+
+header .title {
+  display: flex;
   align-items: center;
   justify-content: flex-start;
 }
