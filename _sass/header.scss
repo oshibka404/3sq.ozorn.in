@@ -9,6 +9,20 @@ header .title {
   justify-content: flex-start;
 }
 
+.site-header, .site-header:link, .site-header:visited {
+  text-decoration: none;
+  color: #000;
+}
+
+.site-header:hover {
+  text-decoration: underline;
+  color: #3885ED;
+}
+
+.site-header:active {
+  color: #F7642C;
+}
+
 .logo {
   display: inline-flex;
   padding: 0 16px 0 0;
