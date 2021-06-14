@@ -9,6 +9,8 @@ layout: default
           <div class="post-preview__thumbnail-image" style="background-image: url(/assets/{{ post.image }})"></div>
         {% elsif post.release_spotify %}
           <iframe src="https://open.spotify.com/embed/album/{{ post.release_spotify }}" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        {% elsif post.youtube %}
+          <iframe width="300" height="168" src="https://www.youtube.com/embed/{{ post.youtube }}" title="{{ post.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {% endif %}
       </div>
       <div class="post-preview__text">
