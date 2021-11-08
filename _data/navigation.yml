@@ -1,9 +1,18 @@
-- name: Youtube
-  id: yt
-  link: https://www.youtube.com/channel/UCFISXqb_pF0jmfkTEjFWyJw
 - name: Bandcamp
   id: bc
   link: https://threecoloredsquares.bandcamp.com
+- name: Spotify
+  id: sptfy
+  link: https://open.spotify.com/artist/27zESwCtXJYF2vTUJIbm7q
+- name: Apple Music
+  id: appl
+  link: https://music.apple.com/artist/three-colored-squares/1550979272
+- name: Deezer
+  id: dzr
+  link: https://www.deezer.com/artist/121664982
+- name: Youtube
+  id: yt
+  link: https://www.youtube.com/channel/UCFISXqb_pF0jmfkTEjFWyJw
 - name: SoundCloud
   id: sc
   link: https://soundcloud.com/ozornin
@@ -16,17 +25,5 @@
 - name: Twitter
   id: tw
   link: https://twitter.com/3clrdsqrs
-- name: Spotify
-  id: sptfy
-  link: https://open.spotify.com/artist/27zESwCtXJYF2vTUJIbm7q
-- name: Apple Music
-  id: appl
-  link: https://music.apple.com/artist/three-colored-squares/1550979272
-- name: Deezer
-  id: dzr
-  link: https://www.deezer.com/artist/121664982
-- name: Yandex.Music
-  id: yndx
-  link: https://music.yandex.ru/artist/10802296
 
   
